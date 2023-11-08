@@ -11,6 +11,7 @@ Desde **siempre** me ha interezado la tecnología, asi que decidí aprender por 
 - JavaScript
 - Git & Github
 - React
+- NextJS
 
 👯 Estoy buscando colaborar en algunos proyectos para mejorar mis habilidades y conocimientos, asi que si te interesa que colabore en algún proyecto,
 no dudes en contactarme y colaboraré contigo.
