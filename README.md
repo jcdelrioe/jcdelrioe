@@ -2,7 +2,7 @@
 
 Habitualmente trabajo como **Supervisor de Control y aseguramiento de calidad** en construcciones metal-mecánicas **(QA/QC Supervisor)**
 
-Desde **siempre** me ha interezado la tecnología, asi que decidí aprender por mi propia cuenta, y **convertirme también en un programador web**.
+Desde **siempre** me ha interesado la tecnología, asi que decidí aprender por mi propia cuenta, y **convertirme también en un programador web**.
 
 🌱 Actualmente estoy aprendiendo Desarrollo Web, las tecnologías que estoy estudiando son:
 - Markdown
