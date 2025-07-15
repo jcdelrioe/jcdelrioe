@@ -9,9 +9,10 @@ Desde **siempre** me ha interesado la tecnología, asi que decidí aprender por 
 - HTML
 - CSS
 - JavaScript
-- Git & Github
-- React
+- React JS
 - NextJS
+- NestJS
+- Git & Github
 
 👯 Estoy buscando colaborar en algunos proyectos para mejorar mis habilidades y conocimientos, asi que si te interesa que colabore en algún proyecto,
 no dudes en contactarme y colaboraré contigo.
